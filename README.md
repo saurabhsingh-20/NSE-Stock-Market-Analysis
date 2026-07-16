@@ -11,11 +11,12 @@ The project follows a structured workflow beginning with data validation and qua
 ## Dataset
 
 - **Dataset:** NIFTY 50 Historical Stock Data
-- **Time Period:** 1999 – 2026
+- **Time Period:** 1999–2026
 - **Records:** 287,310+
 - **Companies:** 49
 - **Sectors:** 13
 
+> **Note:** The original dataset has been divided into six CSV files to comply with GitHub's file size limits. Together, these files represent the complete dataset used in this analysis.
 ---
 
 ## Tools Used
